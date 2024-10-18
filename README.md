@@ -1,3 +1,3 @@
-### Hi there 👋 I´m Juan 👨🏻‍💻 Flutter | React.js Developer
+### Hi there 👋 I´m Juan 👨🏻‍💻 | React.js Developer
 
-Soy un apasionado desarrollador de software especializado en el desarrollo de aplicaciones móviles con Flutter y páginas web con React.js. Mi enfoque se centra en la creación de experiencias digitales innovadoras y de alta calidad. Con experiencia en la construcción de aplicaciones multiplataforma con Flutter, así como en el desarrollo de interfaces de usuario dinámicas con React, comprometido a ofrecer soluciones que superen las expectativas de los usuarios y contribuir al éxito de los proyectos.
+Soy un apasionado desarrollador de software dedicado al el desarrollo de aplicaciones web con React.js. Mi enfoque está en la creación de experiencias digitales innovadoras y de alta calidad. Con experiencia en la construcción de interfaces de usuario dinámicas y responsivas, estoy comprometido a ofrecer soluciones que superen las expectativas de los usuarios y a contribuir al éxito de los proyectos.
